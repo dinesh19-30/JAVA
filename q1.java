@@ -5,6 +5,7 @@ public class q1 {
         String b=sc.nextLine();
         int a=sc.nextInt();
         System.out.println("My name is " + b + " and my age is " + a);
+        sc.close();
     }
     
 }

@@ -20,6 +20,7 @@ public class d3 {
         {
             System.out.println("b is greater");
         }
+        s.close();
     }
 
     

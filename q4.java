@@ -7,6 +7,7 @@ public class q4 {
         double score=sc.nextDouble();
         String department=sc.next();
         System.out.println("My name is " + name + " and my score is " + score + " and my department is " + department);
+        sc.close();
     }
     
 }

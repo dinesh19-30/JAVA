@@ -1,5 +1,6 @@
+import java.util.Scanner;
+
 public class d4 {
-    import java.util.Scanner;
     public static void main(String[] args) {
         Scanner s= new Scanner(System.in);
         int a=s.nextInt();
@@ -20,5 +21,6 @@ public class d4 {
         {
             System.out.println("b is greater");
         }
-    }       
+        s.close();
+    }
 }

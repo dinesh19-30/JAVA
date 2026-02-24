@@ -32,5 +32,6 @@ public class ui {
         System.out.println("Character: " + charValue);
         System.out.println("Boolean: " + boolValue);
         System.out.println("String: " + stringValue);
+        sc.close();
     }
 }

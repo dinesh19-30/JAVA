@@ -12,6 +12,7 @@ public class d2 {
         {
             System.out.println("you are fail");
         }
+        sc.close();
 
     }
 }

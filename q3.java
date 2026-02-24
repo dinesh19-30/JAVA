@@ -9,5 +9,6 @@ public class q3 {
         int e=a+b+c;
         int f=d/e;
         System.out.println("The average is: " + f);
+        sc.close();
     }
 }
